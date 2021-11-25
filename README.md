@@ -10,8 +10,4 @@ This project utilize Model-View-ViewModel (MVVM) pattern, Hilt(Dependency inject
 
 ###DEMO###
 
-![Demo Video](https://user-images.githubusercontent.com/66731540/143492356-473b8e0b-b0ba-407f-8d15-a9c84e23b16c.mp4)
-
-
 https://user-images.githubusercontent.com/66731540/143492924-2018cddf-fdc4-4ee4-a908-6eb84a98dc70.mp4
-
