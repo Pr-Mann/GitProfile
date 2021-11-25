@@ -6,7 +6,7 @@ For each public repository owned by the user, the name and description are shown
 
 When a repository is selected, a card pops up with information about when it was last updated, how many stars it has, and how many times it has been forked.
 
-This project utilize Model-View-ViewModel (MVVM) pattern, Hilt(Dependency injection), Retrofit, Kotlin and Live Data.
+This project utilize Model-View-ViewModel (MVVM) pattern, Hilt(Dependency injection), Retrofit, Kotlin, Live Data, etc.
 
 ###DEMO###
 
