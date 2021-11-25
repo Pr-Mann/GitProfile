@@ -8,5 +8,6 @@ When a repository is selected, a card pops up with information about when it was
 
 This project utilize Model-View-ViewModel (MVVM) pattern, Hilt(Dependency injection), Retrofit, Kotlin and Live Data.
 
-DEMO
-https://user-images.githubusercontent.com/66731540/143492356-473b8e0b-b0ba-407f-8d15-a9c84e23b16c.mp4
+###DEMO###
+
+![Demo Video](https://user-images.githubusercontent.com/66731540/143492356-473b8e0b-b0ba-407f-8d15-a9c84e23b16c.mp4)
